@@ -8,7 +8,7 @@
 article {
   display: grid;
 }
-#f {
+.f {
   margin-top: 10px;
 }
 #button {

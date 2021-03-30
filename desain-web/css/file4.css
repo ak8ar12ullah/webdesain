@@ -1,13 +1,14 @@
-#img {
+.img {
   height: 70px;
   width: 90px;
 }
-#judulpage {
+.judulpage {
   text-align: center;
   font-weight: bolder;
   font-size: 30px;
   width: 100%;
   font-family: cursive;
+  margin: 0px;
 }
 #jdl {
   font-size: 25px;

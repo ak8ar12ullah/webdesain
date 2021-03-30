@@ -81,18 +81,20 @@ article {
   width: 100%;
   margin-bottom: 15px;
 }
-#jdl {
+.jdl {
   font-weight: bolder;
   font-size: 30px;
+  padding: 0px;
   margin-top: 5px;
   margin-left: 15px;
+  margin-bottom: 0px;
 }
-#waktu {
+.waktu {
   display: flex;
   margin-left: 15px;
 }
-#jm,
-#tgl {
+.jm,
+.tgl {
   background-color: chocolate;
   width: auto;
   margin: 5px 5px 5px 0px;
@@ -103,13 +105,16 @@ article {
   font-size: 10px;
   border-radius: 5px;
 }
-#isi {
+.isi {
   margin-left: 15px;
   padding: 10px 5px 0px 0px;
   font-family: sans-serif;
 }
 aside {
   width: 25%;
+}
+aside h1 {
+  color: chocolate;
 }
 footer {
   width: 90%;
