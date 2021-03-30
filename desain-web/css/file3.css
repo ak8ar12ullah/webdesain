@@ -11,8 +11,11 @@ article {
 #f {
   margin-top: 10px;
 }
+#button {
+  margin-left: 125px;
+}
 button {
-  margin: 0px 0px 30px 135px;
+  margin: 0px 0px 30px 10px;
 }
 section {
   height: 500px;
