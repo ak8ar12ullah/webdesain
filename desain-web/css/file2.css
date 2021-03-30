@@ -1,0 +1,17 @@
+article {
+  display: grid;
+}
+#img {
+  margin: 10px 15px 10px 15px;
+  height: auto;
+  width: 60%;
+}
+#jdl {
+  margin-top: 30px;
+}
+#waktu {
+  margin-bottom: 15px;
+}
+section {
+  height: 850px;
+}

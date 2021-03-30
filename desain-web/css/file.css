@@ -1,0 +1,123 @@
+body {
+  background-color: #d9d9d9;
+}
+header {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: chocolate;
+  width: 90%;
+  height: 150px;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 4px 4px 3px grey;
+  align-items: flex-end;
+}
+nav {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+nav > ul {
+  margin-right: 5px;
+}
+nav > ul > li {
+  display: inline-block;
+  margin: 0 5px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+#head {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+#judul {
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+  font-size: 25px;
+  padding: 0;
+  padding-left: 30px;
+  margin: 0;
+}
+#logo {
+  padding-left: 40px;
+  padding-top: 7px;
+}
+#search {
+  margin-right: 45px;
+  font-weight: bold;
+  color: white;
+}
+section {
+  display: flex;
+  height: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  justify-content: space-between;
+}
+section #sidea a {
+  text-decoration: none;
+  color: black;
+}
+#sidea {
+  width: 70%;
+}
+article {
+  display: flex;
+  padding: 15px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 4px 4px 3px grey;
+  width: 100%;
+  margin-bottom: 15px;
+}
+#jdl {
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+#waktu {
+  display: flex;
+  margin-left: 15px;
+}
+#jm,
+#tgl {
+  background-color: chocolate;
+  width: auto;
+  margin: 5px 5px 5px 0px;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 10px;
+  border-radius: 5px;
+}
+#isi {
+  margin-left: 15px;
+  padding: 10px 5px 0px 0px;
+}
+#sideb {
+  width: 25%;
+}
+footer {
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 4px 4px 3px grey;
+}
