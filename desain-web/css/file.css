@@ -32,6 +32,7 @@ nav > ul > li {
 nav a {
   color: white;
   text-decoration: none;
+  font-family: cursive;
 }
 #head {
   display: flex;
